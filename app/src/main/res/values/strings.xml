@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AccKitDemo</string>
+    <string name="appShowName">Account Kit Demo</string>
+    <string name="btnIdTokenVIew">ID-Token Mode SignIn</string>
+    <string name="btnAuthView">Authorization Code Mode SignIn</string>
+    <string name="btnLogoutView">Sign Out</string>
+    <string name="defaultInfo">Welcome</string>
+</resources>
